@@ -1,2 +1,2 @@
 # Gas-Ideal-
-Gas Ideal in 2 and 3 D
+Gas Ideal in 2 and 3 D with and withput collisions.
